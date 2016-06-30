@@ -1,0 +1,634 @@
+@font-face{
+font-family : "Adobe Caslon Pro";
+src : url('fontes_artes/Adobe Caslon Pro.otf');
+}
+
+@font-face{
+font-family : "Adobe Garamond Pro Bold";
+src : url('fontes_artes/Adobe Garamond Pro Bold.otf');
+}
+
+@font-face{
+font-family : "Adorable";
+src : url('fontes_artes/Adorable.TTF');
+}
+
+@font-face{
+font-family : "Allegro";
+src : url('fontes_artes/Allegro.ttf');
+}
+
+@font-face{
+font-family : "Allura";
+src : url('fontes_artes/Allura.ttf');
+}
+
+@font-face{
+font-family : "Amazone BT";
+src : url('fontes_artes/Amazone BT.ttf');
+}
+
+@font-face{
+font-family : "Annabelle";
+src : url('fontes_artes/Annabelle.ttf');
+}
+
+@font-face{
+font-family : "Arial Black";
+src : url('fontes_artes/Arial Black.ttf');
+}
+
+@font-face{
+font-family : "Arial Narrow";
+src : url('fontes_artes/Arial Narrow.TTF');
+}
+
+@font-face{
+font-family : "Arial Rounded MT Bold fed";
+src : url('fontes_artes/Arial Rounded MT Bold fed.ttf');
+}
+
+@font-face{
+font-family : "Arial Rounded MT Bold";
+src : url('fontes_artes/Arial Rounded MT Bold.ttf');
+}
+
+@font-face{
+font-family : "Arial";
+src : url('fontes_artes/Arial.ttf');
+}
+
+@font-face{
+font-family : "Ariston";
+src : url('fontes_artes/Ariston.ttf');
+}
+
+@font-face{
+font-family : "ArtScript";
+src : url('fontes_artes/ArtScript.ttf');
+}
+
+@font-face{
+font-family : "Aurora Script";
+src : url('fontes_artes/Aurora Script.ttf');
+}
+
+@font-face{
+font-family : "Avalon Medium";
+src : url('fontes_artes/Avalon Medium.ttf');
+}
+
+@font-face{
+font-family : "AvantGarde Bk BT";
+src : url('fontes_artes/AvantGarde Bk BT.ttf');
+}
+
+@font-face{
+font-family : "Ballpark";
+src : url('fontes_artes/Ballpark.TTF');
+}
+
+@font-face{
+font-family : "Balmoral";
+src : url('fontes_artes/Balmoral.ttf');
+}
+
+@font-face{
+font-family : "Banco";
+src : url('fontes_artes/Banco.ttf');
+}
+
+@font-face{
+font-family : "BankGothic Md BT Medium";
+src : url('fontes_artes/BankGothic Md BT Medium.ttf');
+}
+
+@font-face{
+font-family : "Baskerville Old Face";
+src : url('fontes_artes/Baskerville Old Face.TTF');
+}
+
+@font-face{
+font-family : "Batang";
+src : url('fontes_artes/Batang.ttc');
+}
+
+@font-face{
+font-family : "BatangChe";
+src : url('fontes_artes/BatangChe.ttc');
+}
+
+@font-face{
+font-family : "Bauhaus 93";
+src : url('fontes_artes/Bauhaus 93.TTF');
+}
+
+@font-face{
+font-family : "Bell MT";
+src : url('fontes_artes/Bell MT.TTF');
+}
+
+@font-face{
+font-family : "Berlin Sans FB Demi";
+src : url('fontes_artes/Berlin Sans FB Demi.TTF');
+}
+
+@font-face{
+font-family : "Bertram LET";
+src : url('fontes_artes/Bertram LET.TTF');
+}
+
+@font-face{
+font-family : "Bickham Script One";
+src : url('fontes_artes/Bickham Script One.ttf');
+}
+
+@font-face{
+font-family : "Bikham Cyr Script";
+src : url('fontes_artes/Bikham Cyr Script.ttf');
+}
+
+@font-face{
+font-family : "Biting My Nails";
+src : url('fontes_artes/Biting My Nails.TTF');
+}
+
+@font-face{
+font-family : "BlackJack";
+src : url('fontes_artes/BlackJack.TTF');
+}
+
+@font-face{
+font-family : "Bodoni Bk BT";
+src : url('fontes_artes/Bodoni Bk BT.ttf');
+}
+
+@font-face{
+font-family : "Bolero script";
+src : url('fontes_artes/Bolero script.ttf');
+}
+
+@font-face{
+font-family : "Book Antiqua";
+src : url('fontes_artes/Book Antiqua.TTF');
+}
+
+@font-face{
+font-family : "Boomerang";
+src : url('fontes_artes/Boomerang.TTF');
+}
+
+@font-face{
+font-family : "Brian James Condensed";
+src : url('fontes_artes/Brian James Condensed.ttf');
+}
+
+@font-face{
+font-family : "Brock Script";
+src : url('fontes_artes/Brock Script.ttf');
+}
+
+@font-face{
+font-family : "BrockScript";
+src : url('fontes_artes/BrockScript.ttf');
+}
+
+@font-face{
+font-family : "Brush455 BT";
+src : url('fontes_artes/Brush455 BT.ttf');
+}
+
+@font-face{
+font-family : "Bullpen";
+src : url('fontes_artes/Bullpen.ttf');
+}
+
+@font-face{
+font-family : "BUTECO ";
+src : url('fontes_artes/BUTECO .otf');
+}
+
+@font-face{
+font-family : "Calibri";
+src : url('fontes_artes/Calibri.TTF');
+}
+
+@font-face{
+font-family : "Californian FB";
+src : url('fontes_artes/Californian FB.TTF');
+}
+
+@font-face{
+font-family : "Calisto MT";
+src : url('fontes_artes/Calisto MT.TTF');
+}
+
+@font-face{
+font-family : "Calligraphia One";
+src : url('fontes_artes/Calligraphia One.ttf');
+}
+
+@font-face{
+font-family : "Cambria";
+src : url('fontes_artes/Cambria.TTC');
+}
+
+@font-face{
+font-family : "Cambria";
+src : url('fontes_artes/Cambria.TTF');
+}
+
+@font-face{
+font-family : "Cancun";
+src : url('fontes_artes/Cancun.TTF');
+}
+
+@font-face{
+font-family : "Carnivale";
+src : url('fontes_artes/Carnivale.TTF');
+}
+
+@font-face{
+font-family : "Cassandra";
+src : url('fontes_artes/Cassandra.ttf');
+}
+
+@font-face{
+font-family : "Cataneo BT";
+src : url('fontes_artes/Cataneo BT.TTF');
+}
+
+@font-face{
+font-family : "Catull";
+src : url('fontes_artes/Catull.TTF');
+}
+
+@font-face{
+font-family : "Celtic MN";
+src : url('fontes_artes/Celtic MN.ttf');
+}
+
+@font-face{
+font-family : "Century Gothic";
+src : url('fontes_artes/Century Gothic.TTF');
+}
+
+@font-face{
+font-family : "Chelsea Alternates";
+src : url('fontes_artes/Chelsea Alternates.PFB');
+}
+
+@font-face{
+font-family : "ChickenScratch";
+src : url('fontes_artes/ChickenScratch.TTF');
+}
+
+@font-face{
+font-family : "Chilled";
+src : url('fontes_artes/Chilled.TTF');
+}
+
+@font-face{
+font-family : "Chinese Takeaway";
+src : url('fontes_artes/Chinese Takeaway.ttf');
+}
+
+@font-face{
+font-family : "Clarendon BT";
+src : url('fontes_artes/Clarendon BT.ttf');
+}
+
+@font-face{
+font-family : "Coaster Shadow";
+src : url('fontes_artes/Coaster Shadow.ttf');
+}
+
+@font-face{
+font-family : "Coaster";
+src : url('fontes_artes/Coaster.TTF');
+}
+
+@font-face{
+font-family : "Comic Sans MS";
+src : url('fontes_artes/Comic Sans MS.ttf');
+}
+
+@font-face{
+font-family : "Connetable";
+src : url('fontes_artes/Connetable.ttf');
+}
+
+@font-face{
+font-family : "Corinthia";
+src : url('fontes_artes/Corinthia.ttf');
+}
+
+@font-face{
+font-family : "Coronet";
+src : url('fontes_artes/Coronet.ttf');
+}
+
+@font-face{
+font-family : "Curlz MT";
+src : url('fontes_artes/Curlz MT.TTF');
+}
+
+@font-face{
+font-family : "CygnetRound";
+src : url('fontes_artes/CygnetRound.ttf');
+}
+
+@font-face{
+font-family : "Daniel Black";
+src : url('fontes_artes/Daniel Black.ttf');
+}
+
+@font-face{
+font-family : "Dover Heavy";
+src : url('fontes_artes/Dover Heavy.TTF');
+}
+
+@font-face{
+font-family : "Dover Shadow";
+src : url('fontes_artes/Dover Shadow.TTF');
+}
+
+@font-face{
+font-family : "Edwardian Script ITC";
+src : url('fontes_artes/Edwardian Script ITC.TTF');
+}
+
+@font-face{
+font-family : "Elegance";
+src : url('fontes_artes/Elegance.ttf');
+}
+
+@font-face{
+font-family : "ElGar";
+src : url('fontes_artes/ElGar.ttf');
+}
+
+@font-face{
+font-family : "Ethnocentric";
+src : url('fontes_artes/Ethnocentric.TTF');
+}
+
+@font-face{
+font-family : "Express";
+src : url('fontes_artes/Express.ttf');
+}
+
+@font-face{
+font-family : "FlemishScript BT";
+src : url('fontes_artes/FlemishScript BT.ttf');
+}
+
+@font-face{
+font-family : "Foo";
+src : url('fontes_artes/Foo.TTF');
+}
+
+@font-face{
+font-family : "Forte";
+src : url('fontes_artes/Forte.TTF');
+}
+
+@font-face{
+font-family : "Freehand521 BT";
+src : url('fontes_artes/Freehand521 BT.ttf');
+}
+
+@font-face{
+font-family : "French Script MT";
+src : url('fontes_artes/French Script MT.TTF');
+}
+
+@font-face{
+font-family : "Gill Sans Ultra Bold";
+src : url('fontes_artes/Gill Sans Ultra Bold.ttf');
+}
+
+@font-face{
+font-family : "Glowworm";
+src : url('fontes_artes/Glowworm.ttf');
+}
+
+@font-face{
+font-family : "Goudy Old Style";
+src : url('fontes_artes/Goudy Old Style.TTF');
+}
+
+@font-face{
+font-family : "Great Vibes";
+src : url('fontes_artes/Great Vibes.ttf');
+}
+
+@font-face{
+font-family : "Gulim";
+src : url('fontes_artes/Gulim.ttc');
+}
+
+@font-face{
+font-family : "Harrington";
+src : url('fontes_artes/Harrington.TTF');
+}
+
+@font-face{
+font-family : "Ice kingdom";
+src : url('fontes_artes/Ice kingdom.ttf');
+}
+
+@font-face{
+font-family : "Intro ";
+src : url('fontes_artes/Intro .otf');
+}
+
+@font-face{
+font-family : "Intro";
+src : url('fontes_artes/Intro.otf');
+}
+
+@font-face{
+font-family : "Isadora Cyr ";
+src : url('fontes_artes/Isadora Cyr .ttf');
+}
+
+@font-face{
+font-family : "Keep Calm";
+src : url('fontes_artes/Keep Calm.ttf');
+}
+
+@font-face{
+font-family : "LeviBrush";
+src : url('fontes_artes/LeviBrush.TTF');
+}
+
+@font-face{
+font-family : "Licenz Plate";
+src : url('fontes_artes/Licenz Plate.TTF');
+}
+
+@font-face{
+font-family : "Lucida Calligraphy";
+src : url('fontes_artes/Lucida Calligraphy.TTF');
+}
+
+@font-face{
+font-family : "Lucida Console";
+src : url('fontes_artes/Lucida Console.ttf');
+}
+
+@font-face{
+font-family : "Lucida Handwriting";
+src : url('fontes_artes/Lucida Handwriting.TTF');
+}
+
+@font-face{
+font-family : "Martina";
+src : url('fontes_artes/Martina.ttf');
+}
+
+@font-face{
+font-family : "Meiryo";
+src : url('fontes_artes/Meiryo.ttc');
+}
+
+@font-face{
+font-family : "Menuet script";
+src : url('fontes_artes/Menuet script.ttf');
+}
+
+@font-face{
+font-family : "Minion Pro";
+src : url('fontes_artes/Minion Pro.otf');
+}
+
+@font-face{
+font-family : "Mongolian Baiti";
+src : url('fontes_artes/Mongolian Baiti.ttf');
+}
+
+@font-face{
+font-family : "Monotype Corsiva";
+src : url('fontes_artes/Monotype Corsiva.TTF');
+}
+
+@font-face{
+font-family : "Music Hall";
+src : url('fontes_artes/Music Hall.ttf');
+}
+
+@font-face{
+font-family : "MV Boli";
+src : url('fontes_artes/MV Boli.ttf');
+}
+
+@font-face{
+font-family : "NewStyle";
+src : url('fontes_artes/NewStyle.ttf');
+}
+
+@font-face{
+font-family : "Old English Five";
+src : url('fontes_artes/Old English Five.ttf');
+}
+
+@font-face{
+font-family : "Ornamenta Monumenta";
+src : url('fontes_artes/Ornamenta Monumenta.ttf');
+}
+
+@font-face{
+font-family : "P22 Corinthia";
+src : url('fontes_artes/P22 Corinthia.ttf');
+}
+
+@font-face{
+font-family : "Pristina";
+src : url('fontes_artes/Pristina.TTF');
+}
+
+@font-face{
+font-family : "Runy Tunes Revisited NF";
+src : url('fontes_artes/Runy Tunes Revisited NF.ttf');
+}
+
+@font-face{
+font-family : "Scooby Doo";
+src : url('fontes_artes/Scooby Doo.ttf');
+}
+
+@font-face{
+font-family : "Scriptina";
+src : url('fontes_artes/Scriptina.ttf');
+}
+
+@font-face{
+font-family : "Segoe Print";
+src : url('fontes_artes/Segoe Print.ttf');
+}
+
+@font-face{
+font-family : "Showcard Gothic";
+src : url('fontes_artes/Showcard Gothic.TTF');
+}
+
+@font-face{
+font-family : "Signet Roundhand";
+src : url('fontes_artes/Signet Roundhand.ttf');
+}
+
+@font-face{
+font-family : "SnellRoundhand Script";
+src : url('fontes_artes/SnellRoundhand Script.ttf');
+}
+
+@font-face{
+font-family : "StudioScriptCTT";
+src : url('fontes_artes/StudioScriptCTT.ttf');
+}
+
+@font-face{
+font-family : "Sui Generis Free";
+src : url('fontes_artes/Sui Generis Free.ttf');
+}
+
+@font-face{
+font-family : "Supernatural Knight";
+src : url('fontes_artes/Supernatural Knight.ttf');
+}
+
+@font-face{
+font-family : "Times New Roman";
+src : url('fontes_artes/Times New Roman.TTF');
+}
+
+@font-face{
+font-family : "Trajan Pro";
+src : url('fontes_artes/Trajan Pro.ttf');
+}
+
+@font-face{
+font-family : "Vani";
+src : url('fontes_artes/Vani.ttc');
+}
+
+@font-face{
+font-family : "Vani";
+src : url('fontes_artes/Vani.ttf');
+}
+
+@font-face{
+font-family : "Vijaya";
+src : url('fontes_artes/Vijaya.ttf');
+}
+
+@font-face{
+font-family : "Viner Hand ITC";
+src : url('fontes_artes/Viner Hand ITC.TTF');
+}
+
+@font-face{
+font-family : "Walt Disney Script";
+src : url('fontes_artes/Walt Disney Script.ttf');
+}
